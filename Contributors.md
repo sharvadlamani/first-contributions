@@ -5,7 +5,8 @@
 - [Kenneth](https://github.com/neke97) **Hi World, my first contribution
 - [Shreyan](https://github.com/shreyannandanwar) **Contribution, It was EPIC
 - [Biswajit](https://github.com/ImBiswajitslg) First contribution
-- [Charles](https://github.com/charcg) 
+- [Charles](https://github.com/charcg)
+- [Sharvani](https://github.com/sharvadlamani)
 - [David Zhu](https://github.com/charcg) 
 - [Luifer](https://github.com/luifer991) **First contribution, awesome**
 - [Om Asatu](https://github.com/omasati1709) **My first contribution**
